@@ -39,3 +39,6 @@
 -   상수가 포장할 수 있는 햄버거가 없습니다.
 
 ---
+
+<img width="877" alt="image" src="https://user-images.githubusercontent.com/106604926/218261774-b972e672-18c6-4e0e-bf70-2dcddcfaaa0d.png">
+
